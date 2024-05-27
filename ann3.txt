@@ -1,3 +1,9 @@
+''' Write a Python Program using Perceptron Neural Network to recognise even and odd 
+numbers. Given numbers are in ASCII form 0 to 9.
+'''
+
+
+
 import numpy as np
 
 j = int(input("Enter a Number (0-9): "))
